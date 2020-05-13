@@ -1,1 +1,1 @@
-# New-York-Collisions-Data-Web-App
+# This project is a web Application to visualize the collisions data of New York City containing more than 10 Million rows . The analysis is done using pandas , numpy for visualization and  for structuring the app streamlit library was used.
